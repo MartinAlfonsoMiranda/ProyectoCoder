@@ -55,7 +55,7 @@ ROOT_URLCONF = 'ProyectoCoder.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [r"C:\Users\Martín\PycharmProjects\ProyectoCoder\AppCoder\plantillas"],
+        'DIRS': [r"C:\Users\Martín\PycharmProjects\ProyectoCoderMvt\AppCoder\plantillas"],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
