@@ -19,5 +19,5 @@ from AppCoder.views import crear_familiares
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path("familiares/", crear_familiares)
+    path("", crear_familiares)
 ]
